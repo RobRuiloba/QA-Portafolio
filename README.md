@@ -4,7 +4,7 @@ Aspiring QA Engineer | Manual & API Testing | Bug Reporting | Jira | Python | In
 Hi! My name is Roberto.
 I'm an aspiring QA Engineer with hands-on experience in:
 
-Manual Testing
+Manual Testing|
 API Testing with Postman|
 Bug Reporting and Defect Tracking|
 Test Case Design and Execution|
