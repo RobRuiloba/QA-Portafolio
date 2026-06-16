@@ -1,30 +1,23 @@
-# QA-Portafolio
-Aspiring QA Engineer | Manual & API Testing | Bug Reporting | Jira | Python | Interested in Software & Game Testing
+# 🧪 QA Portfolio — Roberto Ruiloba
 
-Hi! My name is Roberto.
-I'm an aspiring QA Engineer with hands-on experience in:
+QA Engineer | API Testing | Functional Testing | Jira
 
-Manual Testing|
-API Testing with Postman|
-Bug Reporting and Defect Tracking|
-Test Case Design and Execution|
-Python (currently learning)|
-Git and GitHub
+## Projects
 
-**Currently**
-Building my QA portfolio|
-Learning test automation|
-Expanding my knowledge of software testing best practices|
-Seeking opportunities as a Junior QA Tester / QA Engineer
+### 📁 Sprint 2 — Web Testing: Equivalence Classes & Test Cases
+- Designed 26 equivalence classes for form field validation
+- Executed 6 test cases covering 5 time-range scenarios
+- Tools: Excel, Urban Routes test environment
 
-**Tools & Technologies**
-Postman|
-Jira|
-GitHub|
-Python|
-Chrome DevTools|
-REST APIs|
+### 📁 Sprint 3 — UI Checklists & Cross-Browser Testing
+- 43 checklist items executed across 2 browser versions
+- 24 UI bugs reported and tracked in Jira (TS3)
+- Defect rate: 35% identified before release
 
-**Goals**
+### 📁 Sprint 4 — API Testing with Postman
+- 45 test cases on 2 REST endpoints
+- 24 bugs logged in Jira (TS4)
+- Tested: HTTP codes, JSON schemas, boundary values, invalid data types
 
-I'm passionate about learning software testing and continuously improving my QA skills. Right now, I'm focused on gaining practical experience with manual testing, API testing, and automation while building projects for my portfolio and preparing for my first QA role.
+## Contact
+📧 robertoruiloba28@gmail.com
